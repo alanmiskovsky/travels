@@ -21,7 +21,17 @@ Tady stejná taktika, kouknout na letenky na [kiwi](https://www.kiwi.com/) a ná
 ## Jídlo
 ***
 
+Jídla v restauracích podle kamaráda vyjdou cca stejně jako u nás.
 
+Ovšem například ramen zde stojí třeba 100,- českých.
+
+
+## Ubytování
+*** 
+
+Kamaráda ubytování vycházelo na cca 1000 pro dva.
+
+***Musím najít přes co***
 
 ## Atrakce
 ***
