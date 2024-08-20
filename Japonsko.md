@@ -1,7 +1,9 @@
 ## Doprava
 ***
 
-### Z Koree
+### Do Japonska
+
+#### Z Koree
 Cesta z Koree do Japonska obsahuje 2 hlavní možnosti 
 
 1. Letecky (do Tokya) - letenky stojí od 8 000 ,- do 11 000 ,- (zpáteční). Ohledně ceny rozhoduje s jakou společností se poletí. Ceny se dají zkontrolovat na [kiwi](https://www.kiwi.com/)
@@ -12,11 +14,22 @@ Cesta z Koree do Japonska obsahuje 2 hlavní možnosti
 Nejlepší by bylo za mě zkombinovat obě možnosti. Cesta lodí nám naskytne krásný pohled na Japonsko a zážitek. Následná cesta letadlem nám ušetří
 spoustu času
 
-### Z Prahy 
+#### Z Prahy 
 Tady stejná taktika, kouknout na letenky na [kiwi](https://www.kiwi.com/) a následně je koupit na oficiálních stránkách. 
 
+### Po japonsku
 
+#### Vlaky
 
+Nejlepší možnost pro procestování vlakem Japonsko je koupit na pár dní **Japan Rail pass**. 
+
+Cena passu je například 15 500,- za 21 dní.
+
+![img.png](imgs/ticket_prices.png)
+
+Oficiální stránky pro více infa jsou zde https://japanrailpass.net/en/use/special-ticket/. 
+
+**to-do** dopsat kam všude to platí je toho raketa.
 
 ## Jídlo
 ***
